@@ -20,4 +20,8 @@ Nvidia - Quantum support
 
 https://nvidia.github.io/cuda-quantum/latest/examples/python/tutorials/hybrid_qnns.html
 
+My professor's GitHub
+
+https://github.com/dyjdlopez
+
 
