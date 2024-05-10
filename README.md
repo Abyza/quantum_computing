@@ -24,6 +24,9 @@ My professor's GitHub
 
 https://github.com/dyjdlopez
 
+professors's repo about codes
+https://github.com/dyjdlopez/demo-hybrid-quantum-nn
+
 libraries for quantum 
 cuda quantum, tensorflow quantum, torch quantum, penny lane
 
