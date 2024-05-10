@@ -24,4 +24,7 @@ My professor's GitHub
 
 https://github.com/dyjdlopez
 
+libraries for quantum 
+cuda quantum, tensorflow quantum, torch quantum, penny lane
+
 
